@@ -1,0 +1,4 @@
+android/out/
+android/app.apk
+build.log
+node_modules/
