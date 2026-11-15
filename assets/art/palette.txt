@@ -1,0 +1,13 @@
+# 白铃 角色调色板（供像素画/代码共用）
+hair        #F7E8C4
+hair_shadow #E9D5A6
+hair_dark   #D3BD8E
+skin        #FCE2D5
+skin_shadow #EEC5B3
+blush       #F3A9A0
+white       #FFFCF7
+white_shadow #EDE4D8
+eye         #6AAF96
+eye_dark    #2B5648
+bow         #292524
+shoe        #9E886A
